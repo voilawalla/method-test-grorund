@@ -1,0 +1,5 @@
+.ruby-version
+notes.md
+coverage/
+/tmp
+.DS_Store
