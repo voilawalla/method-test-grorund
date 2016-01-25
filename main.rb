@@ -1,3 +1,5 @@
+require_relative 'lib/menu'
+
 #Input: text file with target price and available menu items
 #Output: All combinations that match target price exactly
 
